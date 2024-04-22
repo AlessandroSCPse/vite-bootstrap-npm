@@ -14,6 +14,7 @@ export default {
   <div class="container">
     <div class="row row-cols-2">
       <div class="col">
+        <button class="btn btn-primary">Bottone</button>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint obcaecati, delectus officiis magnam ipsum minima perspiciatis soluta, at, nesciunt possimus quam iure harum tempora sequi itaque id hic impedit earum.
       </div>
       <div class="col">
